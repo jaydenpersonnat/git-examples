@@ -7,3 +7,5 @@ I live in MA.
 I'm 20 years old.
 
 I study CS.
+
+I am in CS61.
